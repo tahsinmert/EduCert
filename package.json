@@ -1,0 +1,46 @@
+{
+  "name": "educert",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed": "tsx scripts/seed-example-data.ts",
+    "seed:ucuncu-binyil": "tsx scripts/seed-ucuncu-binyil-courses.ts"
+  },
+  "dependencies": {
+    "@portabletext/react": "^3.0.11",
+    "@sanity/client": "^6.10.0",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.58.0",
+    "clsx": "^2.0.0",
+    "html-to-image": "^1.11.13",
+    "lucide-react": "^0.468.0",
+    "nanoid": "^5.0.4",
+    "next": "^15.0.0",
+    "next-sanity": "^9.0.0",
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sanity": "^3.58.0",
+    "styled-components": "^6.1.8",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.0.1",
+    "dotenv": "^17.2.3",
+    "eslint": "^8",
+    "eslint-config-next": "^15.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5"
+  }
+}

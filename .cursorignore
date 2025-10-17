@@ -1,0 +1,8 @@
+# Cursor'un görmemesini istediğiniz dosyalar
+.next/
+node_modules/
+.git/
+dist/
+build/
+*.log
+
