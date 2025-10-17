@@ -111,7 +111,7 @@ export default async function HomePage() {
                 Dünyaya Gösterin
               </h3>
               <p className="text-muted font-sans text-sm leading-relaxed">
-                PDF olarak indirin, LinkedIn&apos;de paylaşın veya doğrulama linki gönderin.
+                PDF olarak indirin, LinkedIn'de paylaşın veya doğrulama linki gönderin.
               </p>
             </div>
           </div>
@@ -183,7 +183,7 @@ export default async function HomePage() {
                       Kolay Paylaşım
                     </h3>
                     <p className="text-sm text-muted leading-relaxed">
-                      LinkedIn, e-posta, CV&apos;niz için mükemmel. URL ile herkese gösterin.
+                      LinkedIn, e-posta, CV'niz için mükemmel. URL ile herkese gösterin.
                     </p>
                   </div>
                 </div>
