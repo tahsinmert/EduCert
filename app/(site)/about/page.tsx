@@ -52,7 +52,7 @@ export default function AboutPage() {
                 Vizyon
               </h2>
               <p className="text-xl text-foreground leading-relaxed font-sans">
-                Türkiye'nin en güvenilir dijital sertifika platformu olmak,
+                Türkiye&apos;nin en güvenilir dijital sertifika platformu olmak,
                 tüm eğitim kuruluşları için standart çözüm haline gelmek.
               </p>
             </div>
